@@ -8,7 +8,6 @@ def caesar_cipher(string, number)
       i = 33
       # puts "i = 33"
     when 65..90
-      # don't know shift have to do math
       # puts "i = upper"
       if new_num > 90
         j = new_num - 90
@@ -17,8 +16,6 @@ def caesar_cipher(string, number)
         i = new_num
       end
     when 97..122
-      # don't know shift have to do math
-      i = "b"
       # puts "i = lower"
       if new_num > 122
         j = new_num - 122

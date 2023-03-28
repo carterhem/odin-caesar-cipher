@@ -2,7 +2,7 @@
 
 # Goal
 
-* Create a cipher that takes in a string and number(for shift factor) and then outputs a modified string
+* Create a cipher that takes in a string and number (for shift factor) and then outputs a modified string
 
 # Things to remember
 
